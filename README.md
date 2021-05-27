@@ -6,6 +6,7 @@ In this data Projects folder, i added all data related projects from several tra
 Added Projects
 -------------
 1.Data Modeling with Postgres
+
 2.Data Modeling with Cassandra
 
 
