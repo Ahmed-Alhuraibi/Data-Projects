@@ -25,9 +25,8 @@ Sample data is available in the `data/` folder.
 
 ### Log Data
 
-The JSON logs on user activity have the following structure.
+The JSON logs on user activity.
 
-![log data](log-data.png)
 
 ### Song Data
 
