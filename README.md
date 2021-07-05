@@ -9,5 +9,7 @@ Added Projects
 
 2.Data Modeling with Cassandra
 
+3.Data Warehouse on Amazon Redshift
 
+4.Data Lake
 
